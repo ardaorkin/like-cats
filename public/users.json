@@ -1,0 +1,10 @@
+[
+  {
+    "images": ["/assets/cat1.jpg", "/assets/cat2.jpg"],
+    "username": "kitty"
+  },
+  {
+    "images": ["/assets/cat1.jpg", "/assets/cat2.jpg"],
+    "username": "jam"
+  }
+]
